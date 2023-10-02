@@ -132,7 +132,7 @@ To work in local environment you need to start up the **_local backend_** and co
 For that you need to copy content of `.env.example` file to `.env.local` and specify provided variables.
 
 ## Test
-
+BLAH
 Libraries for testing:
 
 
