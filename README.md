@@ -150,7 +150,7 @@ http://127.0.0.1:8080/{service_name}/docs
 ```
 
 For example: http://127.0.0.1:8080/users/docs
-
+sfadsfasdf
 ## Contributors
 
 <a href="https://github.com/epam/badgerdoc/graphs/contributors">
